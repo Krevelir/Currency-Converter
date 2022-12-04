@@ -1,0 +1,7 @@
+.container {
+    flex-basis: 700px;
+    width: 100%;
+    max-width: 500px;
+    font-size: 20px;
+    border-radius: 10px;
+}
