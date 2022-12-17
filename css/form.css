@@ -6,7 +6,7 @@
     background-color: #dac71cf0;
     border-radius: 5px;
     border: 1px solid black;
-    padding: 5px;
+    padding: 15px;
 }
 
 .form__labelText {
@@ -60,5 +60,5 @@
     text-align: center;
     margin: 0 auto;
     color: aliceblue;
-    width: 500px;
+    max-width: 500px;
 }
